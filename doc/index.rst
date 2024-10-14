@@ -178,6 +178,7 @@ Documentation
 **Advanced Usage**
 
 * :doc:`monte_carlo`
+* :doc:`debugging`
 
 .. toctree::
    :hidden:
@@ -185,6 +186,7 @@ Documentation
    :caption: Advanced Usage
 
    monte_carlo
+   debugging
 
 **Help and References**
 
